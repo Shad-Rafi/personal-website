@@ -1,0 +1,135 @@
+body{    
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+#header-1{
+    font-size: 30px;
+}
+#header-3{
+    font-size: 30px;
+}
+#header-2{
+    font-size: 50px;
+}
+#header-4{
+    font-size: 30px;
+    text-align: center;
+}
+.work-div{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 1%;
+    padding-top: 50px;
+}
+#first-div{
+    margin-top: 100px;
+    padding-left: 30px;
+}
+#second-div{
+    padding-right: 50px;
+}
+#third-div{
+    width: 35%;
+    padding-left: 30px;
+}
+#fourth-div{
+    margin-top: 150px;
+    padding-left: 50px;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: #ec4c7a;
+}
+.top-section{
+    height: 500px;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.link-button{
+    background-color: #ec4c7a;
+    padding: 10px 25px;
+    text-decoration: none;
+    color: white;
+    border-radius: 7.5px;
+    font-weight: 700;
+}
+.half-width img{
+    width: 100%;
+}
+.work-div img{
+    width: 100%;
+}
+.biography-section{
+    height: 500px;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 150px;
+    padding-top: 100px;
+}
+.latest-works{
+    height: 500px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.download-button{
+    background-color: #ec4c7a;
+    text-decoration: none;
+    color: white;    
+    padding: 10px 25px;
+    border-radius: 7.5px;
+    font-weight: 700;
+}
+.half-width p{
+    color: dimgray;
+}
+.bottom-section{
+    height: 600px;
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.bottom-section h2{
+    font-size: 30px;
+}
+.contact-button{
+    background-color: #ec4c7a;
+    text-decoration: none;
+    color: white;    
+    padding: 50px 100px;
+    border-radius: 7.5px;
+    font-weight: 700;
+}
+#name-1{
+    font-weight: bolder;
+    font-size: 20px;
+}
+#name-2{
+    color: gray;
+}
+#p-1{
+    font-weight: 600;
+}
+#footer{
+    font-size: 12.5px;
+    text-align: center;
+    color: gray;
+}
